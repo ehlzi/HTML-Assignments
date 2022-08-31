@@ -1,24 +1,16 @@
 # HTML-Assignments-CodeAcademy
 
-
 ## Elements and Structure
-
 Learn about HTML elements and structure, the building blocks of websites.
 
-## Lesson
-Introduction to HTML
+## Lessons
+- Introduction to HTML
+- HTML Document Standards
 
 
-## Quiz
-Introduction to HTML
+## Quizes
+- Introduction to HTML
+- HTML Document Standards
 
-## Lesson
-HTML Document Standards
-
-
-## Quiz
-HTML Document Standards
-
-
-## Project
-Fashion Blog!
+## Projects
+- Fashion Blog!
