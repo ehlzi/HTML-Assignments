@@ -1,5 +1,8 @@
 # Forms Validation
 
+If validations on a `<form>` do not pass, the user gets a message explaining why and the <form> cannot be submitted.
+These quick checks help ensure that input data is correct and safe for our servers. It also helps give users immediate feedback on what they need to fix instead of having to wait for a server to send back that information.
+
 ----
 
 Client-side validations happen in the browser before information is sent to a server.
