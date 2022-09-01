@@ -1,4 +1,4 @@
-# HTML via CodeAcademy
+# HTML
 
 ## Syllabus
 
