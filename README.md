@@ -1,4 +1,4 @@
-# HTML/CSS/JS Assignments
+# HTML
 
 ## Syllabus
 
