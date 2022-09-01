@@ -1,5 +1,9 @@
 # Tables
 
+Using HTML `<table>` element to present information in a two-dimensional table to the users.
+
+----
+
 The `<table>` element creates a table.
 
 The `<tr>` element adds rows to a table.
