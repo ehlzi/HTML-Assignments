@@ -3,11 +3,16 @@ Take this course and learn about the inner workings of an HTML form! Learn how t
 
 # Lesson
 HTML Forms
+[(here)](https://codepen.io/ehlzi/details/oNdNRxm)
+
 
 Form Validation
+[(here)](https://codepen.io/ehlzi/details/WNJNBvG)
 
 # Quiz
 HTML Forms
 
+
 # Project
 Form a Story!
+[(here)](https://codepen.io/ehlzi/details/gOzOJYY)
