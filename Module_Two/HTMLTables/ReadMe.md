@@ -26,4 +26,4 @@ A table’s footer is created with the `<tfoot>` element.
 
 All the CSS properties you learned about in this course can be applied to tables and their data.
 
-Click [here](https://codepen.io/ehlzi/details/ZEoENLv) for a live preview.
+### Click [here](https://codepen.io/ehlzi/details/ZEoENLv) for a live preview.
