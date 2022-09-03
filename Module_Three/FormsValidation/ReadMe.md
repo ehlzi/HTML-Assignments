@@ -18,3 +18,5 @@ Assigning a value to the minlength attribute of a text input element will valida
 Assigning a value to the maxlength attribute of a text input element will validate an acceptable maximum number of characters.
 
 Assigning a regex to pattern matches the input to the provided regex.
+
+### Click [here](https://codepen.io/ehlzi/pen/WNJNBvG) for a live preview.
