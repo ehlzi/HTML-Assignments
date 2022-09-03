@@ -6,4 +6,4 @@ For this project, we’ll use our knowledge of the HTML `<form>` and grab user i
 
 Make a `<form>` capable of collecting the correct information so that the newly crafted story makes sense!
 
-### Click [here](https://codepen.io/ehlzi/pen/gOzOJYY) for a live preview.
+### Click [here](https://codepen.io/ehlzi/details/gOzOJYY) for a live preview.
