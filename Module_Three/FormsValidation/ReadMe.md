@@ -19,4 +19,4 @@ Assigning a value to the maxlength attribute of a text input element will valida
 
 Assigning a regex to pattern matches the input to the provided regex.
 
-### Click [here](https://codepen.io/ehlzi/pen/WNJNBvG) for a live preview.
+### Click [here](https://codepen.io/ehlzi/details/WNJNBvG) for a live preview.
